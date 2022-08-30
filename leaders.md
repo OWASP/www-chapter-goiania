@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Fernando Alencar](mailto:fernando.alencar@owasp.org)
+* [Rubens Alberto](mailto:rubens.alberto@owasp.org)
+* [Ana Rocha](mailto:ana.rocha@owasp.org)
