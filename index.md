@@ -19,6 +19,6 @@ Os capítulos são liderados por líderes locais de acordo com a [Política de C
 Todos são bem-vindos e incentivados a participar de nossos [Projetos](/projects/), [Capítulos Locais](/chapters/), [Eventos](/events/), [Grupos Online](https://groups.google.com/a/owasp.com/){:target='_blank'}, e [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. Nós encorajamos especialmente a diversidade em todas as nossas iniciativas. O OWASP é um lugar fantástico para aprender sobre segurança de aplicações, para redes, e até mesmo para construir sua reputação como um especialista. Também encorajamos você a ser [tornar-se membro](/membership/) ou considerar uma [doação](/donate/) para apoiar nosso trabalho contínuo.
 
 
-<!--Next Meeting/Event
+<!--Next Meeting/Event -->
 ---------------------
-{% include chapter_events.html group=page.meetup-group %} -->
+{% include chapter_events.html group=page.meetup-group %}
