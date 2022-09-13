@@ -1,5 +1,5 @@
 ---
-title: Eventos_Passados
+title: EventosPassados
 layout:  null
 tab: true
 order: 3

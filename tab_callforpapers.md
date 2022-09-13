@@ -1,5 +1,5 @@
 ---
-title: Call_for_Papers
+title: CallForPapers
 layout:  null
 tab: true
 order: 1
