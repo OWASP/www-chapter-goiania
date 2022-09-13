@@ -1,5 +1,5 @@
 ---
-title: Líderes
+title: Lideres
 layout:  null
 tab: true
 order: 2
