@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Goiania
-tags: example-tag
+tags: GYN
 region: South America
 meetup-group:
 
