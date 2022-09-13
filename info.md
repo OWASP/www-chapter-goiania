@@ -1,7 +1,7 @@
-### Informação do OWASP Goiania 
+### Informação do OWASP Goiânia 
 * Em construção..
 
-### Links sociais
+### Nossas redes sociais
 * [Meetup](#)
 * [Instagram](#)
 * [Twitter](#)
