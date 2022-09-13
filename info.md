@@ -1,7 +1,10 @@
-### Goiania Information
-* Provide Group Information
+### Informação do OWASP Goiania 
+* Em construção..
 
-### Social Links
+### Links sociais
 * [Meetup](#)
+* [Instagram](#)
+* [Twitter](#)
+* [YouTube](#)
 
 
