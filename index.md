@@ -8,6 +8,8 @@ meetup-group:
 
 ---
 
+![OWASP GYN](/assets/images/OWASP-GYN-LOGO.png)
+
 ## Bem vindo!
 Em construção..
 
