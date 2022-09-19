@@ -2,7 +2,7 @@
 * Em construção..
 
 ### Nossas redes sociais
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-goiania-chapter/)
 * [Instagram](#)
 * [Twitter](#)
 * [YouTube](#)
