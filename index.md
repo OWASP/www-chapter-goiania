@@ -20,6 +20,11 @@ Os capítulos são liderados por líderes locais de acordo com a [Política de C
 
 Todos são bem-vindos e incentivados a participar de nossos [Projetos](/projects/), [Capítulos Locais](/chapters/), [Eventos](/events/), [Grupos Online](https://groups.google.com/a/owasp.com/){:target='_blank'}, e [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. Nós encorajamos especialmente a diversidade em todas as nossas iniciativas. O OWASP é um lugar fantástico para aprender sobre segurança de aplicações, para redes, e até mesmo para construir sua reputação como um especialista. Também encorajamos você a ser [tornar-se membro](/membership/) ou considerar uma [doação](/donate/) para apoiar nosso trabalho contínuo.
 
+##Por que participar da OWASP Goiânia?
+A comunidade organiza encontros onde especialistas fazem apresentações e seminários sobre tópicos de segurança de software.
+A participação na comunidade aumentará seus conhecimentos e habilidades.
+Oportunidade de interagir com outros profissionais da area aumentando seu network.
+A participação nas listas de discussão e a participação nas sessões da OWASP Goiânia são gratuitas!!!
 
 <!--Next Meeting/Event -->
 ---------------------
