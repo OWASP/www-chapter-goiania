@@ -14,16 +14,16 @@ tags: GYN
    <p>
       O que eu quero atingir é o seguinte: impactar, ajudar, influenciar, contribuir e apoiar a minha comunidade local de Goiânia e Goiás sobre a OWASP e falar desse assunto de cyber que eu sou apaixonado por! Sei que não será fácil, mas sei que será divertido, então bora la com a gente aprender e apoiar a nossa comunidade GYN!
    </p>
-   <div>
-      <a href="https://linkedin.com/in/falencarr">
-      <img height="200cm" src="https://user-images.githubusercontent.com/108578555/191866680-9d3dd2dd-c2e1-4543-8257-325b12480c79.png"/>
-   </div>
+   <p>
+      <a href="https://linkedin.com/in/falencarr"><img height="200cm" src="https://user-images.githubusercontent.com/108578555/191866680-9d3dd2dd-c2e1-4543-8257-325b12480c79.png"></a>
+   </p>
 </div>
 
 ## Rubens Alberto
 
 
 ## Ana Rocha
+
 Olá Pessoal! Me chamo Ana Aline, sou estudante do curso de Engenharia de Computação na PUC Goiás, trabalho como programadora e sou viciada em livros.
 Me divirto muito procurando bugs e tenho profundo interesse no desenvolvimento seguro.
 Espero contribuir muito com a comunidade! 
