@@ -9,7 +9,7 @@ tags: GYN
 
 <div>
    <p>
-      <a href="https://linkedin.com/in/falencarr"><img height="200cm" align="right"src="https://user-images.githubusercontent.com/108578555/191866680-9d3dd2dd-c2e1-4543-8257-325b12480c79.png"></a>
+      <a href="https://linkedin.com/in/falencarr"><img height="200cm" align="right" src="https://user-images.githubusercontent.com/108578555/191866680-9d3dd2dd-c2e1-4543-8257-325b12480c79.png"></a>
    </p>
    <p> 
       Eae galera! Eu sou Fernando e essencialmente curto muito o tópico de cibersegurança e estou sempre querendo aprender mais sobre o assunto. Me identifiquei nessa área durante a pandemia e desde então, venho estudando e trabalhando nessa área de cyber. Atualmente estou no quinto e ultimo semestre terminando a minha graduação de Defesa Cibernética na Estácio. Eu me identifico ao lado blue, os defensores de cyber, porém sei que para se tornar um defensor habilidoso, é necessário entender como o atacante atinge seus objetivos e por isso que gosto bastante da ideia e conceito da OWASP. Eu vejo que a OWASP ajuda de várias formas com projetos para os atacantes, os defensores, os desenvolvedores e os arquitetos de aplicações. 
