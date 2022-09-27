@@ -23,8 +23,9 @@ tags: GYN
 
 </div>
 
-## Rubens Alberto
+## Rubens Alberto(a.k.a GeleiaSilva)
 
+Olá pessoal! Sou o Rubens Alberto, msi conhecido como Geleia Silva, sou apaixonado por Cibersegurança. Trabalho com cibersegurança,sou evangelista GNU/LInux.
 
 ## Ana Rocha
 
