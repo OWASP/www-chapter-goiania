@@ -22,11 +22,18 @@ tags: GYN
    </p>
 
 </div>
+<p>
+## Rubens Alberto(a.k.a Geleia Silva)
 
-## Rubens Alberto(a.k.a GeleiaSilva)
+Olá pessoal! Sou evangelista GNU/Linux, amante de tecnologia, um apaixonado por cybersergurança. Assim como meus amigos Fenando e Ana Rocha, estou aqui para contribuir com a comunidade Goiana. Trazendo compartilhamento de informação, através de eventos,  reuniões e muito mais. 
+O chapter Goiânia, vêm com a vontade de mostrar que nossa cidade possui profissionais do mais alto nível.
+</p>
+<p>
+   
+    O que eu quero atingir assim como meu amigo Fernando, é impactar, ajudar, influenciar, contribuir e apoiar a minha comunidade local Goiana,sobre a organização OWASP.
+ </p>
 
-Olá pessoal! Sou o Rubens Alberto, msi conhecido como Geleia Silva, sou apaixonado por Cibersegurança. Trabalho com cibersegurança,sou evangelista GNU/LInux.
-
+</div>
 ## Ana Rocha
 
 Olá Pessoal! Me chamo Ana Aline, sou estudante do curso de Engenharia de Computação na PUC Goiás, trabalho como programadora e sou viciada em livros.
