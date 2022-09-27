@@ -18,18 +18,31 @@ tags: GYN
       O que eu quero atingir é o seguinte: impactar, ajudar, influenciar, contribuir e apoiar a minha comunidade local de Goiânia e Goiás sobre a organização OWASP e falar desse assunto de cyber que eu sou tão apaixonado por!
    </p>
    <p>
-      Sei que não será fácil, mas sei que será divertido, então bora la com a gente aprender e apoiar a nossa comunidade GYN!
+      Sei que não será fácil, mas sei que será divertido, então bora lá com a gente aprender e apoiar a nossa comunidade GYN!
    </p>
 
 </div>
 
 ## Rubens Alberto(a.k.a GeleiaSilva)
 
-Olá pessoal! Sou o Rubens Alberto, msi conhecido como Geleia Silva, sou apaixonado por Cibersegurança. Trabalho com cibersegurança,sou evangelista GNU/LInux.
+Olá pessoal! Sou o Rubens Alberto, mais conhecido como Geleia Silva, sou apaixonado por Cibersegurança. Trabalho com cibersegurança,sou evangelista GNU/LInux.
 
 ## Ana Rocha
 
-Olá Pessoal! Me chamo Ana Aline, sou estudante do curso de Engenharia de Computação na PUC Goiás, trabalho como programadora e sou viciada em livros.
-Me divirto muito procurando bugs e tenho profundo interesse no desenvolvimento seguro.
-Espero contribuir muito com a comunidade! 
-😊
+<div>
+  <p>
+    Olá Pessoal! Me chamo Ana Aline, tenho 21, estou cursando o curso de Engenharia de Computação na PUC Goiás. Trabalho como programadora, criando funcionalidades novas para a aplicação e corrigindo bugs.
+  </p>
+  <p>
+    No início da graduação eu conheci através de um livro um pouco sobre engenharia socical, e este foi o start da minha paixão na área. Desde então venho estudando sobre o assunto, buscando novos conhecimentos.
+  </p>
+  <p>
+    Eu sou apaixonada por livros, possuo uma curiosidade insaciável, me divirto muito procurando bugs, jogo mutio CTF e tenho um profundo interesse em estudar cada vez mais o desenvolvimento seguro.
+  </p>
+  <p>
+    Espero contribuir muito com a comunidade! 
+  </p>
+  <p>
+    😊
+  </p>
+</div>
