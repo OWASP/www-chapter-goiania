@@ -20,10 +20,11 @@ tags: GYN
       Sei que não será fácil, mas sei que será divertido, então bora lá com a gente aprender e apoiar a nossa comunidade GYN!
    </p>
 </div>
+
 ## Rubens Alberto (a.k.a Geleia Silva)
 <div>
 <p>
-   <a href="https://www.linkedin.com/in/rubensalbertosilva"><img height="200cm" align="left" src="#"></a>
+   <a href="https://www.linkedin.com/in/rubensalbertosilva"><img height="200cm" align="left" src="https://user-images.githubusercontent.com/108578555/192782476-1792cbd5-946b-44d2-92ec-defbfe7a358a.png"></a>
 </p>
 <p>
    Olá pessoal! Sou evangelista GNU/Linux, amante de tecnologia, um apaixonado por cybersergurança. Assim como meus amigos Fenando e Ana Rocha, estou aqui para contribuir com a comunidade Goiana. Trazendo compartilhamento de informação, através de eventos,  reuniões e muito mais. O chapter Goiânia, vêm com a vontade de mostrar que nossa cidade possui profissionais do mais alto nível.
@@ -32,10 +33,11 @@ tags: GYN
    O que eu quero atingir assim como meu amigo Fernando, é impactar, ajudar, influenciar, contribuir e apoiar a minha comunidade local Goiana, sobre a organização OWASP.
 </p>
 <div>
+   
 ## Ana Rocha
 <div>
    <p>
-      <a href="https://www.linkedin.com/in/ana-aline-rocha-88aa221b2/"><img height="200cm" align="right" src="#"></a>
+      <a href="https://www.linkedin.com/in/ana-aline-rocha-88aa221b2/"><img height="200cm" align="right" src="https://user-images.githubusercontent.com/108578555/192782793-e00a54d6-1ae6-4df9-97a5-d5097d1f3d1b.png"></a>
    </p>
    <p>
       Olá Pessoal! Me chamo Ana Aline, tenho 21, estou cursando o curso de Engenharia de Computação na PUC Goiás. Trabalho como programadora, criando funcionalidades novas para a aplicação e corrigindo bugs.
