@@ -40,7 +40,7 @@ tags: GYN
 ## Ana Rocha 
 <div>
   <p>
-      <a href="https://www.linkedin.com/in/ana-aline-rocha-88aa221b2/"><img height="200cm" align="right" src="https://user-images.githubusercontent.com/108578555/191866680-9d3dd2dd-c2e1-4543-8257-325b12480c79.png"></a>
+      <a href="https://www.linkedin.com/in/ana-aline-rocha-88aa221b2/"><img height="200cm" align="right" src="https://user-images.githubusercontent.com/108578555/192782793-e00a54d6-1ae6-4df9-97a5-d5097d1f3d1b.png"></a>
    </p>
   </p>
   <p> 
