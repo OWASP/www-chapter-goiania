@@ -11,16 +11,16 @@ meetup-group: owasp-goiania-chapter
 ![OWASP GYN](/assets/images/OWASP-GYN-OFFICIAL-LOGO.png)
 
 ## O que é a OWASP?
-O Open Web Application Security Project (OWASP) é uma fundação sem fins lucrativos que trabalha para melhorar a segurança do software. Todos os nossos projetos, ferramentas, documentos, fóruns e capítulos são gratuitos e abertos a qualquer pessoa interessada em melhorar a segurança das aplicações. 
+O Open Web Application Security Project (OWASP) é uma fundação sem fins lucrativos que trabalha para melhorar a segurança de software. Todos os nossos projetos, ferramentas, documentos, fóruns e capítulos são gratuitos e abertos a qualquer pessoa interessada em melhorar a segurança de aplicações web. 
 
 
 ## Por que participar da OWASP Goiânia?
-A OWASP Goiânia é um dos 9 capítulos brasileiros entre os mais de 270 Capítulos ativos em todo o mundo. Nosso objetivo é disseminar a missão da OWASP, tornando a segurança das aplicações parte de um ecossistema, para que as pessoas e organizações possam tomar decisões conscientes sobre os verdadeiros riscos de segurança das aplicações.
+A OWASP Goiânia é um dos 9 capítulos brasileiros entre os mais de 270 capítulos ativos em todo o mundo. Nosso objetivo é disseminar a missão da OWASP, tornando a segurança das aplicações parte de um ecossistema, para que as pessoas e organizações possam tomar decisões conscientes sobre os verdadeiros riscos de segurança das aplicações.
 
 A comunidade organiza encontros onde especialistas fazem apresentações e seminários sobre tópicos de segurança de software.
 A participação na comunidade aumentará seus conhecimentos e habilidades.
-Oportunidade de interagir com outros profissionais da área aumentando seu network.
-A participação nas sessões da OWASP Goiânia são gratuitas!!!
+É uma grande oportunidade de interagir com outros profissionais da área, aumentar o seu network.
+A sua participação nas listas de discussões e a participação nas sessões da OWASP Goiânia são gratuitas!!!
 
 
 ## Contribua com a OWASP Goiânia!

@@ -7,24 +7,23 @@ tags: GYN
 ---
 ## Fernando Alencar 
 <div>
-  <p>
-    <a href="https://linkedin.com/in/falencarr">
-      <img height="200cm" align="right" src="https://user-images.githubusercontent.com/108578555/191866680-9d3dd2dd-c2e1-4543-8257-325b12480c79.png">
-    </a>
-  </p>
-  <p> 
-     Eae galera! Eu sou Fernando e essencialmente curto muito o tópico de cibersegurança e estou sempre querendo aprender mais sobre o assunto. Me identifiquei nessa área durante a pandemia e desde então, venho estudando e trabalhando nessa área de cyber. Atualmente estou no quinto e ultimo semestre terminando a minha graduação de Defesa Cibernética na Estácio. Eu me identifico ao lado blue, os defensores de cyber, porém sei que para se tornar um defensor habilidoso, é necessário entender como o atacante atinge seus objetivos e por isso que gosto bastante da ideia e conceito da OWASP. Eu vejo que a OWASP ajuda de várias formas com projetos para os atacantes, os defensores, os desenvolvedores e os arquitetos de aplicações. 
-  </p>
-  <p> 
-     O que eu quero atingir é o seguinte: impactar, ajudar, influenciar, contribuir e apoiar a minha comunidade local de Goiânia e Goiás sobre a organização OWASP e falar desse assunto de cyber que eu sou tão apaixonado por! 
-  </p>
-  <p> 
-     Sei que não será fácil, mas sei que será divertido, então bora lá com a gente aprender e apoiar a nossa comunidade GYN! 
-  </p>
-</div> 
+   <p>
+      <a href="https://linkedin.com/in/falencarr"><img height="200cm" align="right" src="https://user-images.githubusercontent.com/108578555/191866680-9d3dd2dd-c2e1-4543-8257-325b12480c79.png"></a>
+   </p>
+   <p> 
+      Eai galera! Eu sou Fernando e essencialmente curto muito o tópico de cibersegurança e estou sempre querendo aprender mais sobre o assunto. Me identifiquei com essa área durante a pandemia e desde então, venho estudando e trabalhando na área de cyber. Atualmente estou no quinto e último semestre da minha graduação em Defesa Cibernética na faculdade Estácio. Eu me identifico ao lado blue, os defensores de cyber, porém sei que para se tornar um defensor habilidoso, é necessário entender como o atacante atinge seus objetivos, sendo por isso que me identifico com a ideia e conceito da OWASP. Ao meu ver, a OWASP nos instruí de várias formas como projetos para os atacantes, defensores, desenvolvedores e para os arquitetos de aplicações. 
+   </p>
+   <p>
+      O objetivo é o seguinte: impactar, ajudar, influenciar, contribuir e apoiar a minha comunidade local de Goiânia e Goiás sobre a organização OWASP e falar desse assunto de cyber que eu sou tão apaixonado por!
+   </p>
+   <p>
+      Sei que não será uma tarefa fácil, mas sei que será divertido, então, vamos lá conosco aprender e apoiar a nossa comunidade GYN!
+   </p>
+</div>
 
 ## Rubens Alberto (a.k.a Geleia Silva) 
 <div>
+
   <p>
     <a href="https://www.linkedin.com/in/rubensalbertosilva">
       <img height="200cm" align="right" src="https://user-images.githubusercontent.com/108578555/192782476-1792cbd5-946b-44d2-92ec-defbfe7a358a.png">
@@ -41,9 +40,8 @@ tags: GYN
 ## Ana Rocha 
 <div>
   <p>
-    <a href="https://www.linkedin.com/in/ana-aline-rocha-88aa221b2/">
-      <img height="200cm" align="right" src="https://user-images.githubusercontent.com/108578555/192782793-e00a54d6-1ae6-4df9-97a5-d5097d1f3d1b.png">
-    </a>
+      <a href="https://www.linkedin.com/in/ana-aline-rocha-88aa221b2/"><img height="200cm" align="right" src="https://user-images.githubusercontent.com/108578555/191866680-9d3dd2dd-c2e1-4543-8257-325b12480c79.png"></a>
+   </p>
   </p>
   <p> 
      Olá Pessoal! Me chamo Ana Aline, tenho 21, estou cursando o curso de Engenharia de Computação na PUC Goiás. Trabalho como programadora, criando funcionalidades novas para a aplicação e corrigindo bugs. 
