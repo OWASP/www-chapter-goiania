@@ -44,13 +44,13 @@ tags: GYN
    </p>
   </p>
   <p> 
-     Olá Pessoal! Me chamo Ana Aline, tenho 21, estou cursando o curso de Engenharia de Computação na PUC Goiás. Trabalho como programadora, criando funcionalidades novas para a aplicação e corrigindo bugs. 
+     Olá Pessoal! Me chamo Ana Aline, tenho 21 anos, sou estudante do curso de Engenharia de Computação na PUC Goiás. Trabalho como programadora, criando novas funcionalidades para a aplicação e correção de bugs. 
   </p>
   <p> 
-     No início da graduação eu conheci através de um livro um pouco sobre engenharia socical, e este foi o start da minha paixão na área. Desde então venho estudando sobre o assunto, buscando novos conhecimentos.
+     No início da graduação eu conheci através de um livro um pouco sobre engenharia socical, e este foi o start da minha paixão na área de cibersegurança. Desde então estudo sobre o assunto, buscando novos conhecimentos.
   </p>
   <p> 
-     Eu sou apaixonada por livros, possuo uma curiosidade insaciável, me divirto muito procurando bugs, jogo muito CTF e tenho um profundo interesse em estudar cada vez mais o desenvolvimento seguro.
+     Sou apaixonada por livros, possuo uma curiosidade insaciável, minha diversão é a busca pelos bugs das aplicações, jogo muito CTF e tenho um profundo interesse em estudar cada vez mais o desenvolvimento seguro.
   </p>
   <p> 
      Espero contribuir muito com a comunidade! 
