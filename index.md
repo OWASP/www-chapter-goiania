@@ -29,7 +29,7 @@ Gostaríamos de convidar as empresas da região que queiram nos ajudar, fornecen
 Nos envia um [email](mailto:goiania-leaders@owasp.org) com mais detalhes ou entra em contato com um dos líderes para saber mais!
 
 
-## Quer fazer parte da OWASP?
+## Quer fazer parte ou saber mais sobre a OWASP?
 Os capítulos são liderados por líderes locais conforme a [Política de Capítulos](/www-policy/operational/chapters). As contribuições financeiras só devem ser feitas on-line usando o botão de doação on-line autorizado. 
 
 Todos são bem-vindos e incentivados a participar de nossos [Projetos](/projects/), [Capítulos Locais](/chapters/), [Eventos](/events/), [Grupos Online](https://groups.google.com/a/owasp.com/), e [Community Slack Channel](https://owasp.slack.com/). Nós encorajamos especialmente a diversidade em todas as nossas iniciativas. O OWASP é um lugar fantástico para aprender sobre segurança de aplicações, para redes, e até mesmo para construir sua reputação como um especialista. Também encorajamos você a ser [tornar-se membro](/membership/) ou considerar uma [doação](/donate/) para apoiar nosso trabalho contínuo.

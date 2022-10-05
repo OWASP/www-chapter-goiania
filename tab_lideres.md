@@ -41,7 +41,6 @@ tags: GYN
 <div>
   <p>
       <a href="https://www.linkedin.com/in/ana-aline-rocha-88aa221b2/"><img height="200cm" align="right" src="https://user-images.githubusercontent.com/108578555/192782793-e00a54d6-1ae6-4df9-97a5-d5097d1f3d1b.png"></a>
-   </p>
   </p>
   <p> 
      Olá Pessoal! Me chamo Ana Aline, tenho 21 anos, sou estudante do curso de Engenharia de Computação na PUC Goiás. Trabalho como programadora, criando novas funcionalidades para a aplicação e correção de bugs. 
