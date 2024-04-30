@@ -11,7 +11,7 @@ meetup-group: owasp-goiania-chapter
 ![OWASP GYN](/assets/images/OWASP-GYN-OFFICIAL-LOGO.png)
 
 ## O que é a OWASP?
-O Open Web Application Security Project (OWASP) é uma fundação sem fins lucrativos que trabalha para melhorar a segurança de software. Todos os nossos projetos, ferramentas, documentos, fóruns e capítulos são gratuitos e abertos a qualquer pessoa interessada em melhorar a segurança de aplicações web. 
+O Open Worldwide Application Security Project (OWASP) é uma fundação sem fins lucrativos que trabalha para melhorar a segurança de software. Todos os nossos projetos, ferramentas, documentos, fóruns e capítulos são gratuitos e abertos a qualquer pessoa interessada em melhorar a segurança de aplicações web. 
 
 
 ## Por que participar da OWASP Goiânia?
