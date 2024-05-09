@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Goiânia
 tags: GYN
 region: South America
+country: Brazil
 meetup-group: owasp-goiania-chapter
 
 ---
