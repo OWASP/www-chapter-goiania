@@ -8,7 +8,7 @@ tags: GYN
 ## Vitor Luiz
 <div>
    <p>
-      <a href="https://linkedin.com/in/vitorluigi"><img height="200cm" align="right" src="https://github.com/vitorluigi/images/blob/main/WhatsApp%20Image%202021-08-27%20at%2017.13.13.jpeg"></a>
+      <a href="https://linkedin.com/in/vitorluigi"><img height="200cm" align="right" src="https://user-images.githubusercontent.com/108578555/192782476-1792cbd5-946b-44d2-92ec-defbfe7a358a.png"></a>
    </p>
    <p> 
 Tenho cerca de 15 anos de experiência em segurança da informação, governança, risco e privacidade. Busco diariamente evoluir, com muita dedicação e persistência venho buscando meu desenvolvimento pessoal e profissional através do aperfeiçoamento contínuo. Atuo há 3 anos diretamente com Application Security e ministro aulas em diversas faculdade para os cursos de graduação e MBAs em cibersegurança. Primo pela ética no desempenho das minhas atividades profissionais, buscando construir relacionamentos respeitosos e sólidos por onde passo.
