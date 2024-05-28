@@ -1,3 +1,8 @@
+### About Goiânia
+Conheça um pouco da nossa cidade e do povo Goiano.
+* [Cidade de Goiânia](https://pt.wikipedia.org/wiki/Goi%C3%A2nia)
+* [Estado de Goiás] (https://pt.wikipedia.org/wiki/Goi%C3%A1s)
+  
 ### Nossas redes sociais
 Acompanha o nosso capítulo através desses canais!
 * [Meetup](https://www.meetup.com/owasp-goiania-chapter)
