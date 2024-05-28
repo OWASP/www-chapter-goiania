@@ -21,7 +21,7 @@ Tenho cerca de 15 anos de experiência em segurança da informação, governanç
 ## Oryon Farias
 <div>
   <p>
-      <a href="https://www.linkedin.com/in/oryon-farias"><img height="200cm" align="right" src="https://github.com/oryonfarias.png"></a>
+      <a href="https://www.linkedin.com/in/oryon-farias"><img height="200cm" align="right" src="https://avatars.githubusercontent.com/u/37149350?v=4"></a>
   </p>
   <p> 
 Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum
