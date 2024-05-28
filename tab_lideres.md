@@ -30,16 +30,8 @@ Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Lore
 Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum
 Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum
 Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum
+  </p>
 
-  </p>
-  <p> 
-Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum
-Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum
-Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum
-  </p>
-  <p> 
-Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum
-  </p>
 </div>
 
 ## Rubens Alberto (a.k.a Geleia Silva) 
