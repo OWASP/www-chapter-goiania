@@ -5,10 +5,10 @@ tab: true
 order: 2
 tags: GYN
 ---
-## Fernando Alencar 
+## Vitor Luiz
 <div>
    <p>
-      <a href="https://linkedin.com/in/vitorluigi"><img height="200cm" align="right" src="https://github.com/vitorluigi.png"></a>
+      <a href="https://linkedin.com/in/vitorluigi"><img height="200cm" align="right" src="https://avatars.githubusercontent.com/u/13022483?v=4"></a>
    </p>
    <p> 
 Tenho cerca de 15 anos de experiência em segurança da informação, governança, risco e privacidade. Busco diariamente evoluir, com muita dedicação e persistência venho buscando meu desenvolvimento pessoal e profissional através do aperfeiçoamento contínuo. Atuo há 3 anos diretamente com Application Security e ministro aulas em diversas faculdade para os cursos de graduação e MBAs em cibersegurança. Primo pela ética no desempenho das minhas atividades profissionais, buscando construir relacionamentos respeitosos e sólidos por onde passo.
@@ -21,7 +21,7 @@ Tenho cerca de 15 anos de experiência em segurança da informação, governanç
 ## Oryon Farias
 <div>
   <p>
-      <a href="[https://www.linkedin.com/in/oryon-farias/]"><img height="200cm" align="right" src="https://github.com/oryonfarias.png"></a>
+      <a href="https://www.linkedin.com/in/oryon-farias"><img height="200cm" align="right" src="https://github.com/oryonfarias.png"></a>
   </p>
   <p> 
 xx
