@@ -23,15 +23,12 @@ Tenho cerca de 15 anos de experiência em segurança da informação, governanç
   <p>
       <a href="https://www.linkedin.com/in/oryon-farias"><img height="200cm" align="right" src="https://user-images.githubusercontent.com/108578555/192782476-1792cbd5-946b-44d2-92ec-defbfe7a358a.png"></a>
   </p>
-  <p> 
-Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum
-Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum
-Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum
-Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum
-Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum
-Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum  Loren ipsum Loren ipsum Loren ipsum  Loren ipsum  Loren ipsum
+ <p> 
+Especialista em segurança ofensiva (red team) e docente de nível superior. Possuo especialização em Cibersegurança (lato sensu), CEH, DCPT, eCPPTv2, eMAPT, CMAPT(iOS), CMPEN(Android/iOS), CCRTA e mais de doze (12) anos de experiência na área de Segurança da Informação, com ênfase em teste de intrusão em redes, mobile (iOS e Android), WEB e APIs baseado na metodologia OSSTMM e OWASP, Cloud, exercícios de simulação/emulação de adversários baseado em MITRE ATT&CK e demais operações do Red Team. Entusiasta em investigações de crimes cibernéticos (Pericia forense digital em mobile), engenharia reversa (análise de malware). Atuou e atua com operaçoes de Red Team em diversas equipes de segurança em empresas de grande porte e multinacionais.
   </p>
-
+  <p>
+     O objetivo é contribuir promovendo a cultura de segurança de software, disseminar conhecimento sobre vulnerabilidades e melhores práticas, e fomentar uma comunidade local ativa e colaborativa em torno da segurança cibernética.
+   </p>
 </div>
 
 ## Rubens Alberto (a.k.a Geleia Silva) 
