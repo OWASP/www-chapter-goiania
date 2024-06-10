@@ -7,7 +7,7 @@ OWASP Foundation Web Respository
 https://owasp.org/www-chapter-goiania/
 <p></p>
 
-### Interage com o capítulo e a comunidade através dos nossos canais!
+### Venha interagir com o capítulo e a comunidade através dos nossos canais!
 
 * [Instagram](https://www.instagram.com/owasp_goiania)
 * [LinkedIn](https://www.linkedin.com/in/owasp-goiania/)
