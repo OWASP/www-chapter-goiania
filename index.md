@@ -6,7 +6,7 @@ region: South America
 country: Brazil
 meetup-group: owasp-goiania-chapter
 ---
-<img src="/assets/images/OWASP-GYN-OFFICIAL-LOGO.png" width="500" height="400" alt="OWASP Goiânia">
+<img src="https://github.com/OWASP/www-chapter-goiania/blob/main/assets/images/OWASP-GYN-OFFICIAL-LOGO.png" width="500" height="400" alt="OWASP Goiânia">
 
 ## O que é a OWASP?
 A OWASP, Open Web Application Security Project, é uma organização internacional sem fins lucrativos destinada à transmissão de conhecimento e conscientização sobre segurança de software, focada especialmente em aplicações web. A mesma desenvolve diferentes projetos, que vão desde ferramentas para teste até documentação, material de estudo e fóruns de discussão abertos à toda a comunidade de segurança. 
