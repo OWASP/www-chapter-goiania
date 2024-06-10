@@ -1,5 +1,5 @@
 ---
-title: Lista de Eventos
+title: eventospassados
 layout:  default
 tab: true
 order: 2
