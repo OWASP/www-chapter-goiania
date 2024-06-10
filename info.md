@@ -3,7 +3,7 @@ Conheça um pouco da nossa cidade e do povo Goiano.
 
 * [Cidade de Goiânia](https://pt.wikipedia.org/wiki/Goi%C3%A2nia)
 * [Estado de Goiás](https://pt.wikipedia.org/wiki/Goi%C3%A1s)
-  
+
 
 ### Social Network Links
 Acompanhe as mídias sociais do nosso capítulo.
