@@ -8,7 +8,7 @@ tags: GYN
 
 ## Quer palestrar no nosso próximo evento
 
-Preenche este [formulário](https://forms.gle/YwByNWEwDB2NyoSQ9){:target='_blank'} e logo entraremos em contato!
+Preenche este [formulário](https://forms.gle/YwByNWEwDB2NyoSQ9) e logo entraremos em contato!
 
 <p></p>
 
