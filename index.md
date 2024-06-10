@@ -1,12 +1,11 @@
 ---
-
 layout: col-sidebar
 title: OWASP Goiânia
 tags: GYN
 region: South America
 country: Brazil
 meetup-group: owasp-goiania-chapter
-
+---
 <img src="/assets/images/OWASP-GYN-OFFICIAL-LOGO.png" width="500" height="400" alt="OWASP Goiânia">
 
 ## O que é a OWASP?
