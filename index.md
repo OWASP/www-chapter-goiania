@@ -9,7 +9,7 @@ meetup-group: owasp-goiania-chapter
 
 ---
 
-![OWASP GYN](/assets/images/OWASP-GYN-LOGO.png)
+![OWASP GYN](/assets/images/OWASP-GYN-OFFICIAL-LOGO.png)
 
 ## O que é a OWASP?
 A OWASP, Open Web Application Security Project, é uma organização internacional sem fins lucrativos destinada à transmissão de conhecimento e conscientização sobre segurança de software, focada especialmente em aplicações web. A mesma desenvolve diferentes projetos, que vão desde ferramentas para teste até documentação, material de estudo e fóruns de discussão abertos à toda a comunidade de segurança. 
