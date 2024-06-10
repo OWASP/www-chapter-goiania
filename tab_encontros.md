@@ -2,7 +2,7 @@
 title: Encontros
 displaytext: Encontros
 layout: col-sidebar
-order: 1
+order: 3
 tab: true
 tags: chapter-gyn
 meetup-group: OWASP-Goiania-Chapter
