@@ -17,7 +17,7 @@ Esta página é utilizada para publicar toda informação compartilhada através
 
 Para participar dos encontros, basta inscrever-se no nosso grupo na plataforma Meetup:
 
-* Grupo OWASP POA: <https://www.meetup.com/pt-BR/OWASP-Goiania-Chapter/>
+* Grupo OWASP Goiania: <https://www.meetup.com/pt-BR/OWASP-Goiania-Chapter/>
 
 E as gravações dos encontros são publicadas no nosso canal do YouTube, aproveite pra se inscrever e ativar as notificações:
 
