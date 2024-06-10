@@ -1,9 +1,14 @@
 ---
-title: CallForPapers
-layout:  default
-tab: true
+title: Callforpappers
+displaytext: Call for pappers
+layout: col-sidebar
 order: 1
-tags: GYN
+tab: true
+tags: chapter-gyn
+meetup-group: OWASP-Goiania-Chapter
+country: Brazil
+region: South America
+postal-code: 
 ---
 
 ## Quer palestrar no nosso próximo evento
