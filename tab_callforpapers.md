@@ -1,14 +1,9 @@
 ---
-title: Callforpapers
-displaytext: Call for papers
-layout: col-sidebar
-order: 2
+title: CallForPapers
+layout:  none
 tab: true
-tags: chapter-gyn
-meetup-group: OWASP-Goiania-Chapter
-country: Brazil
-region: South America
-postal-code: 
+order: 1
+tags: GYN
 ---
 
 ## Quer palestrar no nosso próximo evento
