@@ -2,7 +2,7 @@
 title: Callforpappers
 displaytext: Call for pappers
 layout: col-sidebar
-order: 1
+order: 2
 tab: true
 tags: chapter-gyn
 meetup-group: OWASP-Goiania-Chapter
