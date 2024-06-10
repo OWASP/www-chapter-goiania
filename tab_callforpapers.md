@@ -1,6 +1,6 @@
 ---
 title: CallForPapers
-layout:  null
+layout:  default
 tab: true
 order: 1
 tags: GYN

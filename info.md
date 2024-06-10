@@ -10,4 +10,3 @@ Acompanhe as mídias sociais do nosso capítulo.
 * [Instagram](https://www.instagram.com/owasp_goiania)
 * [LinkedIn](https://www.linkedin.com/in/owasp-goiania/)
 * [YouTube](https://www.youtube.com/channel/UC3r4nO2QIpPRn-4VKMlY1BQ)
-

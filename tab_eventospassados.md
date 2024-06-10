@@ -1,8 +1,8 @@
 ---
 title: Lista de Eventos
-layout:  null
+layout:  default
 tab: true
-order: 3
+order: 2
 tags: GYN
 ---
 
