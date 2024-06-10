@@ -1,14 +1,14 @@
 ---
-title: CallForPapers
+title: Call For Papers
 layout:  none
 tab: true
 order: 1
 tags: GYN
 ---
 
-## Quer palestrar no nosso próximo evento
+## Quer palestrar no nosso próximo evento?
 
-Preenche este [formulário](https://forms.gle/YwByNWEwDB2NyoSQ9) e logo entraremos em contato!
+É uma enorme satisfação para nós tê-lo por aqui! Por favor, preecha este [formulário](https://forms.gle/YwByNWEwDB2NyoSQ9) e logo entraremos em contato.
 
 <p></p>
 
