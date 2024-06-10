@@ -1,14 +1,9 @@
 ---
 title: Encontros
-displaytext: Encontros
-layout: col-sidebar
-order: 3
+layout:  none
 tab: true
-tags: chapter-gyn
-meetup-group: OWASP-Goiania-Chapter
-country: Brazil
-region: South America
-postal-code: 
+order: 2
+tags: GYN
 ---
 
 # Registro dos Encontros
