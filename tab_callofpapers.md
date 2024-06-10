@@ -1,6 +1,6 @@
 ---
-title: Callforpappers
-displaytext: Call for pappers
+title: Callforpapers
+displaytext: Call for papers
 layout: col-sidebar
 order: 2
 tab: true
