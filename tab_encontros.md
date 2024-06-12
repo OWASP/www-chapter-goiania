@@ -10,9 +10,12 @@ tags: GYN
 
 Esta página é utilizada para publicar toda informação compartilhada através dos encontros realizados remota ou localmente. 
 
-Para participar dos encontros, basta inscrever-se no nosso grupo na plataforma Meetup:
-
-* Grupo OWASP Goiania: <https://www.meetup.com/pt-BR/OWASP-Goiania-Chapter/>
+**1st Meet OWASP Goiania 
+Data: 10/08/2024
+Local: Faculdade SENAC Goiás
+Hora: das 08:00 as 17:00 
+Escaneie o QR Code abaixo e faça sua inscrição.
+![OWASP GYN](/assets/images/qrcode.png)
 
 E as gravações dos encontros são publicadas no nosso canal do YouTube, aproveite pra se inscrever e ativar as notificações:
 
