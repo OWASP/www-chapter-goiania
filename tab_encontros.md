@@ -19,7 +19,7 @@ Hora: das 08:00 as 17:00
 Escaneie o QR Code abaixo e faça sua inscrição.
 </p>
 
-<img src="https://raw.githubusercontent.com/OWASP/www-chapter-goiania/main/assets/images/qrcode.png" alt="1st Meet Goiânia OWASP">
+<img src="https://raw.githubusercontent.com/OWASP/www-chapter-goiania/main/assets/images/qrcode.png style="display: block; margin: auto;" alt="1st Meet Goiânia OWASP">
 <p>
 As gravações dos encontros serão publicadas no nosso canal do YouTube, aproveite pra se inscrever e ativar as notificações:
 </p>
