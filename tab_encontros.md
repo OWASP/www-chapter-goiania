@@ -10,7 +10,7 @@ tags: GYN
 
 Esta página é utilizada para publicar toda informação compartilhada através dos encontros realizados remota ou localmente. 
 
-<b><h1>1st Meet OWASP Goiania
+<b><h1>1st Meet OWASP Goiania</h1>
 
 <img src="https://raw.githubusercontent.com/OWASP/www-chapter-goiania/main/assets/images/qrcode.png" alt="1s Meet OWASP Goiania" style="display: block; margin: auto;">
 
