@@ -6,14 +6,6 @@ order: 1
 tags: GYN
 ---
 <p></p>
-## Quer palestrar no nosso próximo evento?
+## 1st Meet OWASP Goiânia - Talks
 <p></p>
-É uma enorme satisfação para nós tê-lo por aqui! Por favor, preecha este [formulário](https://forms.gle/YwByNWEwDB2NyoSQ9) e logo entraremos em contato.
-
-<p></p>
-
-Nossa missão é fortalecer e ajudar a nossa comunidade de segurança em aplicações de Goiânia e do estado de Goiás.
-
-<p></p>
-
-Obrigado por se juntar a nós!
+Submissão de Talks encerrada!
