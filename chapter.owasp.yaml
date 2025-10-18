@@ -1,0 +1,26 @@
+leaders:
+  - name: Vitor Barbosa
+    email: vitor.barbosa@owasp.org
+    github: vitorluigi
+  - name: Oryon Farias
+    email: oryon.farias@owasp.org
+  - name: Rubens Alberto
+    github: G3L3I4SILV4
+location:
+  country: Brazil
+  country_code: BR
+  region: Goiás
+  city: Goiânia
+  latitude: -16.680882
+  longitude: -49.2532691
+meetup_group: owasp-goiania-chapter
+name: OWASP Goiânia
+repositories:
+  - name: www-chapter-goiania
+    url: https://github.com/OWASP/www-chapter-goiania
+    description: OWASP Foundation Web Repository
+tags:
+  - GYN
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-goiania
